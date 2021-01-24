@@ -1,1 +1,1 @@
-module.export = {Workout:require("./workout")}
+module.exports = {Workout:require("./workout")}
